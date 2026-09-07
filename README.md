@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/0bdee751-4792-4ed2-9cbf-506b36726d98" />
+
 # FocusBlock — Standalone Android App Blocker
 
 FocusBlock is a native Android application that helps users manage screen time and maintain productivity by temporarily blocking access to selected applications.
