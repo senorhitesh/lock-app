@@ -1,0 +1,10 @@
+-keep class * extends androidx.room.RoomDatabase
+-keep @androidx.room.Entity class *
+-dontwarn androidx.room.paging.**
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn sun.misc.**
+-keep class com.google.gson.** { *; }
+-keep class com.focusblock.app.data.model.** { *; }
+-keep class kotlin.** { *; }
+-keep class kotlinx.** { *; }

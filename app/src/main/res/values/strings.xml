@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusBlock</string>
+    <string name="accessibility_service_label">FocusBlock App Blocker</string>
+    <string name="accessibility_service_description">FocusBlock uses Accessibility Service to detect when a blocked app is opened and immediately shows a blocking screen. FocusBlock does not read screen content, collect personal data, or perform any other actions.</string>
+    <string name="notification_channel_name">Blocking Session</string>
+    <string name="notification_channel_desc">Shows when FocusBlock is actively blocking apps</string>
+    <string name="notification_title">FocusBlock Active</string>
+    <string name="notification_text">%1$d apps blocked · %2$s remaining</string>
+    <string name="notification_action_open">Open</string>
+</resources>
